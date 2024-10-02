@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stop_recording">Stop</string>
+    <string name="timer_text">00:00</string>
+    <string name="start_recording">Start</string>
+    <string name="video_thumbnail">video thumbnail</string>
+    <string name="record_video">Record Video</string>
+    <string name="show_list">Show List</string>
+</resources>
